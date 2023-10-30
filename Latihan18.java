@@ -6,7 +6,12 @@ package latihan18;
 
 /**
  *
- * @author User
+ * @author user 
+ Nama              : Bintang Fajar Nusantara 
+ Nim               : 22205028 
+ Prodi             : Teknik Informatika 
+ Kelas             : PBO 1
+ Deskripsi Program : Program ini berisi program yang menampilkan Kelipatan
  */
 public class Latihan18 {
      public static void main(String[] args) {
